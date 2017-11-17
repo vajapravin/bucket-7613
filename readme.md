@@ -18,7 +18,7 @@ Essentially, your program is the "Guesser" in the description of the game above.
 
 
 # How to run
-```javascript
+```ruby
 > ruby play.rb
 Please select your choice!
 1 - Let's play
